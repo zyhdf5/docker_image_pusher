@@ -1,1 +1,1 @@
-surrealdb/surrealdb:latest
+surrealdb/surrealdb
