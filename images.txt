@@ -1,2 +1,1 @@
-mysql:5.7.44-oraclelinux7
-redis:6.2.16-alpine3.20
+zaproxy/zap-stable:20241104
