@@ -1,1 +1,1 @@
-prometheuscommunity/postgres-exporter:master
+timberio/vector:latest-alpine
