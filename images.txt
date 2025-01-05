@@ -1,1 +1,1 @@
-timberio/vector:latest-alpine
+obsidiandynamics/kafdrop:4.1.0
