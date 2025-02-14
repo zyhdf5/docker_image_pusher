@@ -1,1 +1,4 @@
-obsidiandynamics/kafdrop:4.1.0
+greptime/greptimedb:v0.11.3
+greptime/greptimedb-initializer:v0.1.4-alpha.3
+timberio/vector:nightly-2025-02-13-alpine
+grafana/grafana:11.5.1
