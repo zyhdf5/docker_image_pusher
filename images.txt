@@ -1,1 +1,1 @@
-quay.io/fabxc/prometheus_demo_service
+quay.io/prometheus/blackbox-exporter:v0.25.0
