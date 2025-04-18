@@ -1,1 +1,1 @@
-rayproject/ray:2.44.1-py39-cu125
+greptime/greptimedb:v0.13.2
