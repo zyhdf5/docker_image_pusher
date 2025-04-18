@@ -1,1 +1,1 @@
-greptime/greptimedb:v0.13.2
+greptime/greptimedb-initializer:v0.2.1
