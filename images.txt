@@ -1,1 +1,1 @@
-docker:28.3.2-dind-alpine3.22
+postgres:13.3-alpine3.14
