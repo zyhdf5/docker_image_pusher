@@ -1,1 +1,1 @@
-postgres:13.3-alpine3.14
+grafana/grafana:12.0.1
