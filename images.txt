@@ -1,14 +1,1 @@
-docker.io/cloudnativelabs/kube-router
-gcr.io/google_containers/metrics-server-amd64:v0.2.0
-ghcr.io/jimmidyson/configmap-reload:v0.15.0
-gitpod/workspace-full
-grafana/grafana:12.1.0
-quay.io/brancz/kube-rbac-proxy:v0.19.1
-quay.io/prometheus/alertmanager:v0.28.1
-quay.io/prometheus/blackbox-exporter:v0.27.0
-quay.io/prometheus/node-exporter:v1.9.1
-quay.io/prometheus-operator/prometheus-operator:v0.85.0
-quay.io/prometheus/prometheus:v3.5.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.16.0
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
-quay.io/prometheus-operator/prometheus-config-reloader:v0.85.0
+quay.io/fabxc/prometheus_demo_service
