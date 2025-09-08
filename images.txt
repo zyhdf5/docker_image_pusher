@@ -1,1 +1,4 @@
-quay.io/fabxc/prometheus_demo_service
+zabbix/zabbix-java-gateway:alpine-7.4-latest
+zabbix/zabbix-server-mysql:alpine-7.4-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.4-latest
+zabbix/zabbix-agent:7.4-ubuntu-latest
