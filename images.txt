@@ -1,5 +1,2 @@
-falcosecurity/falco:0.41.3
-falcosecurity/falco-driver-loader:0.41.3
-falcosecurity/falcoctl:0.11.2
-falcosecurity/falcosidekick:2.31.1
-falcosecurity/falcosidekick-ui:2.2.0
+skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.1.0
+skywalking.docker.scarf.sh/apache/skywalking-ui:10.1.0
