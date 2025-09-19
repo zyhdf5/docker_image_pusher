@@ -1,2 +1,1 @@
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.2.0
-skywalking.docker.scarf.sh/apache/skywalking-ui:10.2.0
+docker.n8n.io/n8nio/n8n
