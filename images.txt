@@ -1,2 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.17.28
-docker.elastic.co/elasticsearch/elasticsearch:8.18.7
+knowstreaming/knowstreaming-manager:latest
+knowstreaming/knowstreaming-ui:latest
