@@ -1,1 +1,2 @@
-docker.n8n.io/n8nio/n8n
+docker.elastic.co/elasticsearch/elasticsearch:7.17.28
+docker.elastic.co/elasticsearch/elasticsearch:8.18.7
