@@ -1,2 +1,1 @@
-knowstreaming/knowstreaming-manager:latest
-knowstreaming/knowstreaming-ui:latest
+obsidiandynamics/kafdrop:4.2.0
