@@ -1,1 +1,1 @@
-louislam/uptime-kuma:2.0.2
+weaveworks/scope:1.13.2
