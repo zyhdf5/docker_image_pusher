@@ -1,1 +1,1 @@
-weaveworks/scope:1.13.2
+byjg/nginx-extras:1.26
