@@ -1,1 +1,1 @@
-byjg/nginx-extras:1.26
+alpine:3.20.8
