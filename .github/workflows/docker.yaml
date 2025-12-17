@@ -90,7 +90,7 @@ jobs:
                   name_space_prefix="${name_space}_"
                fi
             fi
-            image_name_tag = "redis"
+            image_name_tag="redis"
             new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$platform_prefix$name_space_prefix$image_name_tag"
             echo "docker tag $image $new_image"
             docker tag $image $new_image
