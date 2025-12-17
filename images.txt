@@ -1,1 +1,1 @@
-alpine:3.20.8
+o2cr.ai/openobserve/openobserve:latest
