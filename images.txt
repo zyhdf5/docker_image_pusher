@@ -1,1 +1,1 @@
-postgres:16.11-alpine3.23
+frolvlad/alpine-glibc:alpine-3.22_glibc-2.42
