@@ -52,9 +52,9 @@ Fork本项目<br>
 
 在国内服务器pull镜像：<br>
 ```
-docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
+docker pull registry.cn-shanghai.aliyuncs.com/shrimp-images/alpine
 ```
-registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
+registry.cn-shanghai.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 shrimp-images 即 ALIYUN_NAME_SPACE<br>
 alpine 即阿里云中显示的镜像名<br>
 
