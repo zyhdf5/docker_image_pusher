@@ -1,1 +1,1 @@
-mongo:7
+zparnold/openhands
