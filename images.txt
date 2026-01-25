@@ -1,1 +1,1 @@
-jetbrains/intellij-http-client
+deedss/jetbrains-remote-development:2025.3
