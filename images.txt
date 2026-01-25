@@ -1,1 +1,1 @@
-idotdigital/opencode
+jetbrains/intellij-http-client
